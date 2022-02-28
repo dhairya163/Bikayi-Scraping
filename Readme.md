@@ -16,3 +16,4 @@ Product varities name (eg.Size)
 
 Product varities value (eg. XL|XXL)
 
+The output csv can be directly uploaded to woocomerce to add products on the wordpress website.
